@@ -102,125 +102,125 @@
     </message>
     <message>
         <source>Settings</source>
-        <translation>Instellingen </translation>
+        <translation>Instellingen</translation>
     </message>
     <message>
         <source>Open in new tab</source>
-        <translation></translation>
+        <translation>Open in nieuw tabblad</translation>
     </message>
     <message>
         <source>Open in new window</source>
-        <translation></translation>
+        <translation>Open in nieuw venster</translation>
     </message>
     <message>
         <source>Copy URL</source>
-        <translation></translation>
+        <translation>URL kopiëren</translation>
     </message>
     <message>
         <source>Add to bookmarks</source>
-        <translation></translation>
+        <translation>Voeg toe aan bladwijzers</translation>
     </message>
     <message>
         <source>Add to dash</source>
-        <translation></translation>
+        <translation>Voeg toe aan startscherm</translation>
     </message>
 </context>
 <context>
     <name>BrowserWindow</name>
     <message>
         <source>Input search or web address</source>
-        <translation type="vanished">Adresse oder Zoeken eingeben</translation>
+        <translation>Voeg zoekterm of webadres in</translation>
     </message>
     <message>
         <source>New window</source>
-        <translation type="vanished">Neues Fenster</translation>
+        <translation>Nieuw Venster</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="vanished">Gescheidenis</translation>
+        <translation>Geschiedenis</translation>
     </message>
     <message>
         <source>Fullscreen</source>
-        <translation type="vanished">Volledig Scherm</translation>
+        <translation>Volledig scherm</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="vanished">Zoeken</translation>
+        <translation>Zoeken</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="vanished">Instellingen</translation>
+        <translation>Instellingen</translation>
     </message>
     <message>
         <source>Reopen</source>
-        <translation>Erneut öffnen</translation>
+        <translation>Heropenen</translation>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="vanished">Lesezeichen</translation>
+        <translation>Bladwijzer</translation>
     </message>
     <message>
         <source>This Connection Is Untrusted</source>
-        <translation>Keine vertrauenswürdige Verbindung</translation>
+        <translation>Deze verbinding is niet betrouwbaar</translation>
     </message>
     <message>
         <source>You are about to securely connect to %1 but we can&apos;t confirm that your connection is secure because this site&apos;s identity can&apos;t be verified.</source>
         <extracomment>%1 is an URL</extracomment>
-        <translation>Sie sind dabei, eine sichere Verbindung zu %1 aufzubauen, es kann aber nicht überprüft werden, ob die wirklich Verbindung sicher ist. Die Identität dieser Website kann nicht bestätigt werden.</translation>
+        <translation>Je staat op het punt om te verbinden met %1, maar we kunnen niet bevestigen of je verbinding beveiligd is, omdat deze website&apos;s identiteit niet bevestigd kan worden.</translation>
     </message>
     <message>
         <source>Continue anyway</source>
-        <translation>Trotzdem fortfahren</translation>
+        <translation>Toch verdergaan</translation>
     </message>
     <message>
         <source>Leave page</source>
-        <translation>Seite verlassen</translation>
+        <translation>Pagina verlaten</translation>
     </message>
     <message>
         <source>Add to dash</source>
-        <translation type="vanished">Zur Startseite hinzufügen</translation>
+        <translation>Aan startpagina toevoegen</translation>
     </message>
     <message>
         <source>View source</source>
-        <translation type="vanished">Seitenquelltext ansehen</translation>
+        <translation>Bron bekijken</translation>
     </message>
     <message>
         <source>Loading</source>
-        <translation></translation>
+        <translation>Laden</translation>
     </message>
     <message>
         <source>Added website &quot;%1&quot; to dash</source>
         <extracomment>%1 is a title</extracomment>
-        <translation>Webseite &quot;%1&quot; zur Startseite hinzugefügt</translation>
+        <translation>%1 is aan het startscherm toegevoegd</translation>
     </message>
     <message>
         <source>Removed bookmark %1</source>
-        <translation></translation>
+        <translation>Bladwijzer %1 verwijderd</translation>
     </message>
     <message>
         <source>Added bookmark &quot;%1&quot;</source>
-        <translation></translation>
+        <translation>Bladwijzer %1 toegevoegd</translation>
     </message>
 </context>
 <context>
     <name>ColorChooser</name>
     <message>
         <source>Choose a color</source>
-        <translation>Farbe wählen</translation>
+        <translation>Kies een kleur</translation>
     </message>
 </context>
 <context>
     <name>ColorPicker</name>
     <message>
         <source>Choose a color</source>
-        <translation type="vanished">Farbe wählen</translation>
+        <translation>Kies een kleur</translation>
     </message>
 </context>
 <context>
     <name>DownloadsDrawer</name>
     <message>
         <source>No active downloads</source>
-        <translation type="vanished">Keine aktuellen Downloads</translation>
+        <translation>Geen actieve downloads</translation>
     </message>
     <message>
         <source>Downloads</source>
@@ -228,80 +228,80 @@
     </message>
     <message>
         <source>Clear</source>
-        <translation></translation>
+        <translation>Wissen</translation>
     </message>
     <message>
         <source>Awaiting confirmation</source>
-        <translation></translation>
+        <translation>Wacht op bevestiging</translation>
     </message>
     <message>
         <source>Downloading...</source>
-        <translation></translation>
+        <translation>Downloaden...</translation>
     </message>
     <message>
         <source>Completed</source>
-        <translation></translation>
+        <translation>Voltooid</translation>
     </message>
     <message>
         <source>Cancelled</source>
-        <translation></translation>
+        <translation>Geannuleerd</translation>
     </message>
     <message>
         <source>Download failed</source>
-        <translation></translation>
+        <translation>Download mislukt</translation>
     </message>
     <message>
         <source>Unknown state!</source>
-        <translation></translation>
+        <translation>Onbekende staat!</translation>
     </message>
 </context>
 <context>
     <name>DownloadsPopup</name>
     <message>
         <source>No active downloads</source>
-        <translation type="vanished">Keine aktuellen Downloads</translation>
+        <translation>Geen actieve downlaods</translation>
     </message>
 </context>
 <context>
     <name>HistoryDrawer</name>
     <message>
         <source>History</source>
-        <translation>Gescheidenis</translation>
+        <translation>Geschiedenis</translation>
     </message>
     <message>
         <source>No history found</source>
-        <translation type="vanished">Gescheidenis nicht gefunden</translation>
+        <translation>Geschiedenis niet gevonden</translation>
     </message>
     <message>
         <source>Clear History</source>
-        <translation></translation>
+        <translation>Geschiedenis wissen</translation>
     </message>
     <message>
         <source>No browser history found</source>
-        <translation></translation>
+        <translation>Geen geschiedenis gevonden</translation>
     </message>
 </context>
 <context>
     <name>NewTabPage</name>
     <message>
         <source>Nothing here, yet</source>
-        <translation>Noch nichts da</translation>
+        <translation>Er is hier nog niets</translation>
     </message>
     <message>
         <source>You can add items by clicking on the menu item &quot;Add to dash&quot; on any website or by right clicking on a bookmark.</source>
-        <translation>Klicken Sie auf &quot;Hinzufügen zur Startseite&quot;, um neue Verknüpfungen zu ergänzen oder rechtsklicken Sie auf ein Lesezeichen</translation>
+        <translation>Je kan hier dingen toevoegen door het menu &quot;Voeg toe aan startscherm&quot; op elke website of bladwijzer</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Bearbeiten</translation>
+        <translation>Bewerken</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Löschen</translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <source>Edit item</source>
-        <translation>Verknüpfung bearbeiten</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Title</source>
@@ -313,19 +313,19 @@
     </message>
     <message>
         <source>Icon URL</source>
-        <translation>Icon-URL</translation>
+        <translation>URL-icoon</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Abbrechen</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation>Übernehmen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Background color</source>
-        <translation>Hintergrundfarbe</translation>
+        <translation>Achtergrondkleur</translation>
     </message>
 </context>
 <context>
@@ -336,7 +336,7 @@
     </message>
     <message>
         <source>Search or enter website name</source>
-        <translation></translation>
+        <translation>Zoek of voer een website in</translation>
     </message>
 </context>
 <context>
@@ -347,11 +347,11 @@
     </message>
     <message>
         <source>General</source>
-        <translation>Allgemein</translation>
+        <translation>Algemeen</translation>
     </message>
     <message>
         <source>Start page</source>
-        <translation>Startseite</translation>
+        <translation>Startpagina</translation>
     </message>
     <message>
         <source>Appearance</source>
@@ -359,7 +359,7 @@
     </message>
     <message>
         <source>Enable dashboard</source>
-        <translation>Startseite aktivieren</translation>
+        <translation>Startpagina activeren</translation>
     </message>
     <message>
         <source>Integrated addressbars</source>
@@ -375,19 +375,19 @@
     </message>
     <message>
         <source>Theme</source>
-        <translation>Theme</translation>
+        <translation>Thema</translation>
     </message>
     <message>
         <source>Primary Color</source>
-        <translation>Primärfarbe</translation>
+        <translation>Primaire kleur</translation>
     </message>
     <message>
         <source>Accent Color</source>
-        <translation>Accentfarbe</translation>
+        <translation>Accentkleur</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Speichern</translation>
+        <translation>Opslaan</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -402,11 +402,11 @@
     </message>
     <message>
         <source>General</source>
-        <translation>Allgemein</translation>
+        <translation>Algemeen</translation>
     </message>
     <message>
         <source>Start page</source>
-        <translation>Startseite</translation>
+        <translation>Startpagina</translation>
     </message>
     <message>
         <source>Theme</source>
@@ -414,19 +414,19 @@
     </message>
     <message>
         <source>Primary Color</source>
-        <translation>Primärfarbe</translation>
+        <translation>Primaire kleur</translation>
     </message>
     <message>
         <source>Accent Color</source>
-        <translation>Accentfarbe</translation>
+        <translation>Accentkleur</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Speichern</translation>
+        <translation>Opslaan</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>Abbrechen</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>Appearance</source>
@@ -442,7 +442,7 @@
     </message>
     <message>
         <source>Enable dashboard</source>
-        <translation>Startseite aktivieren</translation>
+        <translation>Startpagina activeren</translation>
     </message>
 </context>
 <context>
@@ -456,29 +456,29 @@
     <name>TabManager</name>
     <message>
         <source>Removed bookmark</source>
-        <translation type="vanished">Lesezeichen gelöscht</translation>
+        <translation>Bladwijzer gelöscht</translation>
     </message>
     <message>
         <source>Added bookmark</source>
-        <translation type="vanished">Lesezeichen hinzugefügt</translation>
+        <translation>Bladwijzer hinzugefügt</translation>
     </message>
     <message>
         <source>Closed tab</source>
-        <translation type="vanished">Tab geschlossen</translation>
+        <translation>Tab geschlossen</translation>
     </message>
     <message>
         <source>New Tab</source>
-        <translation type="vanished">Neuer Tab</translation>
+        <translation>Neuer Tab</translation>
     </message>
     <message>
         <source>Added website &quot;%1&quot; to dash</source>
         <extracomment>%1 is a title</extracomment>
-        <translation type="vanished">Webseite &quot;%1&quot; zur Startseite hinzugefügt</translation>
+        <translation>Webseite &quot;%1&quot; zur Startpagina hinzugefügt</translation>
     </message>
     <message>
         <source>Closed tab &quot;%1&quot;</source>
         <extracomment>%1 is a title</extracomment>
-        <translation type="vanished">Tab &quot;%1&quot; geschlossen</translation>
+        <translation>Tab &quot;%1&quot; geschlossen</translation>
     </message>
 </context>
 <context>
